@@ -3,7 +3,7 @@ def speak_to_grandma(phrase)
     puts "I LOVE YOU TOO PUMPKIN!"
   #elsif phrase.upcase() != "I LOVE YOU GRANDMA!"
     #elsif phrase != phrase.upcase()
-    elsif phrase == 
+    elsif phrase == 'Hi Nana, how are you?'
     puts "WHAT? NO, NOT SINCE 1938!"
   else
     puts "HUH?! SPEAK UP, SONNY!"
