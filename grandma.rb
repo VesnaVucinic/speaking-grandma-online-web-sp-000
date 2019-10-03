@@ -1,7 +1,8 @@
-phrase == 
+phrase == 'I LOVE YOU GRANDMA!'
 
 def speak_to_grandma(phrase)
-  if phrase.upcase == 'I LOVE YOU GRANDMA!'
+  if phrase.upcae
+ # if phrase.upcase == 'I LOVE YOU GRANDMA!'
     puts 'I LOVE YOU TOO PUMPKIN!'
   #elsif phrase.upcase() != "I LOVE YOU GRANDMA!"
     #elsif phrase != phrase.upcase()
